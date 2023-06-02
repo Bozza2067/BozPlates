@@ -2,6 +2,8 @@
 
 I was inspired to make this script when I saw someone charging money to to this basic stuff. Enjoy my free version :P. Open source ftw!
 
+FiveM Forum Post: https://forum.cfx.re/t/bozplates-customise-your-plate-textures-and-text-format/5110919
+
 ## Pattern string format
 
 - 1 will lead to a random number from 0-9.
