@@ -1,5 +1,7 @@
-Config = {
-    PlateFormats = {
+Config = {}
+
+Config.PlateFormats = {
+    {
         plate01 = "11AAA111", -- Blue on White 2 (Modern SA)
         plate02 = "11AAA111", -- Yellow on Black
         plate03 = "11AAA111", -- Yellow on Blue
