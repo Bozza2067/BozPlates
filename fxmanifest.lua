@@ -5,5 +5,13 @@ description 'BozPlates'
 author 'Boz'
 version '1.0.0'
 
-client_script 'client.lua'
-client_script 'config.lua'
+client_scripts {
+    'config.lua',
+    'client.lua'
+}
+
+files {
+    'config.lua'
+}
+
+shared_script 'config.lua' -- our config
